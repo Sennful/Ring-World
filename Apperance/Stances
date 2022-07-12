@@ -1,1 +1,78 @@
-
+[
+  {
+    "name": "Act Of Genesis",
+    "imagepath": "/folder/item.png",
+    "customizationID": "101-000-menu-stance-1-19e53bcc"
+  },
+  {
+    "name": "Action Pose",
+    "imagepath": "/folder/item.png",
+    "customizationID": "101-000-menu-stance-o-71ebc717"
+  },
+  {
+    "name": "Agent 117",
+    "imagepath": "/folder/item.png",
+    "customizationID": "101-000-menu-stance-p-31d286df"
+  },
+  {
+    "name": "Armed Respite",
+    "imagepath": "/folder/item.png",
+    "customizationID": "101-000-menu-stance-l-6a3a3c22"
+  },
+  {
+    "name": "Battle Stance",
+    "imagepath": "/folder/item.png",
+    "customizationID": "101-000-menu-stance-p-b94f3418"
+  },
+  {
+    "name": "Boom Box",
+    "imagepath": "/folder/item.png",
+    "customizationID": "101-000-menu-stance-l-ea182b38"
+  },
+  {
+    "name": "Calm Blossom",
+    "imagepath": "/folder/item.png",
+    "customizationID": "101-000-menu-stance-r-de5c5081"
+  },
+  {
+    "name": "Can Opener",
+    "imagepath": "/folder/item.png",
+    "customizationID": "101-000-menu-stance-o-8c1c6656"
+  },
+  {
+    "name": "Captain's Pride",
+    "imagepath": "/folder/item.png",
+    "customizationID": "101-000-menu-stance-s-5088f1b1"
+  },
+  {
+    "name": "Claw Patrol",
+    "imagepath": "/folder/item.png",
+    "customizationID": "101-000-menu-stance-o-7ba7d54b"
+  },
+  {
+    "name": "Clean Cut",
+    "imagepath": "/folder/item.png",
+    "customizationID": "101-000-menu-stance-o-1c5b82e7"
+  },
+  {
+    "name": "Combat Reload",
+    "imagepath": "/folder/item.png",
+    "customizationID": "101-000-menu-stance-o-73f74209"
+  },
+  {
+    "name": "Crush Your Enemies",
+    "imagepath": "/folder/item.png",
+    "customizationID": "101-000-menu-stance-p-8fe6c1b9"
+  },
+  {
+    "name": "Eagle's Outlook",
+    "imagepath": "/folder/item.png",
+    "customizationID": "101-000-menu-stance-i-ab33d992"
+  },
+  {
+    "name": "Expecting Trouble",
+    "imagepath": "/folder/item.png",
+    "customizationID": "101-000-menu-stance-o-8adc8b87"
+  }
+  
+]
